@@ -1,0 +1,11 @@
+{
+  "name": "Datascraper",
+  "version": "1",
+  "private": true,
+  "dependencies": {
+    "pdf2json": "^1.2.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
